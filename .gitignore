@@ -1,0 +1,6 @@
+# custom folders
+
+
+# Python environments
+.venv
+__pycache__
